@@ -1,5 +1,5 @@
 ## BlackWings Hackathon 2023
-## DigitalDiva: Elevating Education
+## DigitalDiva: Elevating Black Women's Education
 
 ## Inspiration
 We were inspired by the increasing use of online meeting platforms like Zoom, Google Meet, Teams used to facilitate classroom learning. For students and teachers that are present in Zoom, attendance plays a big role in encouraging students to come to class and actively participate in lessons. Our objective for DigitalDiva, in brief, is to facilitate a smooth day-to-day life routine, and this implementation will eradicate the possibility of human error, promote timesaving, and eliminate the need for proxy attendance.
@@ -31,5 +31,12 @@ Some challenges we ran into was how the screen sharing feature on Zoom and Teams
 # Attendance recorded in CSV
 <img width="187" alt="csv_ss" src="https://user-images.githubusercontent.com/54175576/216791855-374cdb10-09d4-4dde-bb4e-19aa8d887d97.png">
 
+## Accomplishments that we're proud of
+We’re proud of how we coded for the results to be displayed on the screen through our use of computer vision techniques —the box with a name surrounding the face of participants— which visually confirms the attendance being marked. implementation of CSV files to read and write data, allowing for efficiently organized collections of attendance information. 
 
+## What we learned
+While developing this project, we learned more about ways in which we could incorporate different libraries —such as the ImageGrab library, face_recognition library, and OpenCV library— in order to effectively recognize faces. Through this project, we also improved our ability to collect and manage data using CSV files, specifically for tracking class attendance with details such as names and arrival times.
+
+## What's next for Digital Diva: Elevating Black Women's Education
+At present, our software is designed to support and improve academic settings and student performance, including those that are members of marginalized communities. With possible advancements in our program’s facial recognition capabilities —like increasing the amount of faces that can be scanned and recognized— it has the potential to extend to remote work meetings, providing valuable assistance in these increasingly popular contexts. 
 
