@@ -1,5 +1,5 @@
 # BlackWings Hackathon 2023
-## DigitalDiva: Elevating Education
+## Title: DigitalDiva: Elevating Education
 
 ## Inspiration
 We were inspired by the increasing use of online meeting platforms like Zoom, Google Meet, Teams used to facilitate classroom learning. For students and teachers that are present in Zoom, attendance plays a big role in encouraging students to come to class and actively participate in lessons. Our objective for DigitalDiva, in brief, is to facilitate a smooth day-to-day life routine, and this implementation will eradicate the possibility of human error, promote timesaving, and eliminate the need for proxy attendance.
