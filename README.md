@@ -1,4 +1,4 @@
-# BlackWingsHackathon
+# BlackWings Hackathon 2023
 DigitalDiva: Elevating Education
 
 ## Inspiration
