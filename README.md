@@ -12,3 +12,5 @@ We built it using the facial recognition libraries such as Cmake, Dlib, Facial_r
 
 ## Challenges we ran into
 Some challenges we ran into was how the screen sharing feature on Zoom and Teams created conflict in using the software. However, we noticed that a lot of instructors tend to take screenshots of their meeting screen for attendance a few minutes after class started. We applied the same strategy as potential teachers and the software worked as intended.
+
+##OutPut
